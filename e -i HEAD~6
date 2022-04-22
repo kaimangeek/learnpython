@@ -1,0 +1,44 @@
+[33mcommit 06e83cbb95f342fbf106e4e47724de9036d854ef[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/rebase[m[33m)[m
+Author: kaimangeek <kaimangeek@mail.ru>
+Date:   Thu Apr 21 22:36:40 2022 +0200
+
+    Добавил пустой файл про запас
+
+[33mcommit 1a6dabd874276b5812b812a3eb35da8d4c862676[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: ee4ba1b cd756ce
+Author: Дмитрий Кайманов <57715631+kaimangeek@users.noreply.github.com>
+Date:   Thu Apr 21 23:06:50 2022 +0300
+
+    Merge pull request #1 from kaimangeek/feature/branches
+    
+    Добавлена информация о ветвлении
+
+[33mcommit cd756cea7951eabc49d8cb005a6cd650d889fb55[m[33m ([m[1;31morigin/feature/branches[m[33m, [m[1;32mfeature/branches[m[33m)[m
+Author: kaimangeek <kaimangeek@mail.ru>
+Date:   Thu Apr 21 11:09:01 2022 +0200
+
+    Добавлена информация о ветвлении
+
+[33mcommit ee4ba1bea4c0c679d9ba7cb112aeaba0c9923d1c[m
+Author: kaimangeek <kaimangeek@mail.ru>
+Date:   Wed Apr 13 15:12:27 2022 +0200
+
+    Добавлена информация о команде reset
+
+[33mcommit d7714ad60140b74104c5e54406510428f3ac797d[m
+Author: kaimangeek <kaimangeek@mail.ru>
+Date:   Wed Apr 13 15:11:01 2022 +0200
+
+    Добавлена информация про log
+
+[33mcommit 62843782c7c5ed6b88f8149591b85de43474f591[m
+Author: kaimangeek <kaimangeek@mail.ru>
+Date:   Wed Apr 13 15:08:17 2022 +0200
+
+    Добавлена информация о команде commit
+
+[33mcommit b1e1b9508ac748f3254b180cd24e0e8e2c1e6d12[m
+Author: kaimangeek <kaimangeek@mail.ru>
+Date:   Wed Apr 13 14:16:16 2022 +0200
+
+    Добавлен README.md
